@@ -1,0 +1,15 @@
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\MorseCodeConverter.exe
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\MorseCodeConverter.deps.json
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\MorseCodeConverter.runtimeconfig.json
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\MorseCodeConverter.dll
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\MorseCodeConverter.pdb
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\MorseCodeConverter.csproj.AssemblyReference.cache
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\MorseCodeConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\MorseCodeConverter.AssemblyInfoInputs.cache
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\MorseCodeConverter.AssemblyInfo.cs
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\MorseCodeConverter.csproj.CoreCompileInputs.cache
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\MorseCodeConverter.dll
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\refint\MorseCodeConverter.dll
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\MorseCodeConverter.pdb
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\MorseCodeConverter.genruntimeconfig.cache
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\ref\MorseCodeConverter.dll

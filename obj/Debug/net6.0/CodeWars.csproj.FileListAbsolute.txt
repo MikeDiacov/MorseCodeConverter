@@ -1,0 +1,15 @@
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\CodeWars.csproj.AssemblyReference.cache
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfoInputs.cache
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfo.cs
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\CodeWars.csproj.CoreCompileInputs.cache
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\CodeWars.exe
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\CodeWars.deps.json
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\CodeWars.runtimeconfig.json
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\CodeWars.dll
+D:\IT\IT course\test\CodeWars\bin\Debug\net6.0\CodeWars.pdb
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\CodeWars.dll
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\refint\CodeWars.dll
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\CodeWars.pdb
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\CodeWars.genruntimeconfig.cache
+D:\IT\IT course\test\CodeWars\obj\Debug\net6.0\ref\CodeWars.dll
